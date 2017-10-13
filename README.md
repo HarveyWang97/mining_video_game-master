@@ -1,0 +1,1 @@
+This is the source code of a mining video game.
